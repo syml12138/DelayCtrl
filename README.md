@@ -175,11 +175,3 @@ DelayCtrl/
 ## 许可证
 
 本项目基于 [MIT License](LICENSE) 开源。
-
-# 晚点滴
-
-由于赶项目，很多地方写的比较潦草，后续有时间会继续完善，特别是代码结构和注释。
-
-感谢 [dathye](https://github.com/dathye) 的 [N-Relay-UDP-Control](https://github.com/dathye/N-Relay-UDP-Control) 项目，受益匪浅。
-
-欢迎大家提 Issues 和 PR 一起交流学习！
